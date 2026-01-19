@@ -51,3 +51,22 @@ final_project/
 - All missions are stored in localStorage as JSON.
 
 - On page load, saved missions are restored automatically.
+
+## 💾 Local Storage Logic
+
+Each mission is stored with the following properties:
+
+- text — mission content
+
+- done — completion state (true / false)
+
+- date — creation date
+Example stored data:
+[
+  {
+    "text": "Read a book",
+    "done": true,
+    "date": "15/10/2026"
+  }
+]
+
