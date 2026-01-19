@@ -39,3 +39,14 @@ final_project/
     ├── templates/
     │   └── index.html
     └── README.md
+📄 How It Works
+
+Missions are dynamically created using JavaScript.
+
+Event delegation is used to handle clicks on dynamically added buttons.
+
+Missions can be edited, checked/unchecked, or deleted.
+
+All missions are stored in localStorage as JSON.
+
+On page load, saved missions are restored automatically.
