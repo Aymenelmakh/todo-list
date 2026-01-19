@@ -79,9 +79,22 @@ Example stored data:
     git clone https://github.com/Aymenelmakh/todo-list.git
   ```
 2. Open the file:
-   ```text
-   templates/index.html
-   ```
+```text
+    templates/index.html
+```
 in your browser.
 
 (No server required)
+
+## 📌 Notes
+
+- No frameworks or libraries are used.
+
+- Built to practice DOM manipulation, event delegation, and Local Storage.
+
+- Suitable for beginner to intermediate JavaScript learning.
+
+👤 Author
+Aymen Elmakh
+
+GitHub: https://github.com/Aymenelmakh
