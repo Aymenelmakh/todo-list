@@ -94,7 +94,8 @@ in your browser.
 
 - Suitable for beginner to intermediate JavaScript learning.
 
-👤 Author
+## 👤 Author
+
 Aymen Elmakh
 
 GitHub: https://github.com/Aymenelmakh
