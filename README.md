@@ -62,6 +62,7 @@ Each mission is stored with the following properties:
 
 - date — creation date
 Example stored data:
+```text
 [
   {
     "text": "Read a book",
@@ -69,4 +70,5 @@ Example stored data:
     "date": "15/10/2026"
   }
 ]
+```
 
