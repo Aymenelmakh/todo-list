@@ -72,4 +72,16 @@ Example stored data:
   }
 ]
 ```
+## ▶️ How to Run
 
+1. Clone the repository:
+ ```text
+    git clone https://github.com/Aymenelmakh/todo-list.git
+  ```
+2. Open the file:
+   ```text
+   templates/index.html
+   ```
+in your browser.
+
+(No server required)
