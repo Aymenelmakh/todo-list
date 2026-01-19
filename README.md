@@ -61,6 +61,7 @@ Each mission is stored with the following properties:
 - done — completion state (true / false)
 
 - date — creation date
+
 Example stored data:
 ```text
 [
